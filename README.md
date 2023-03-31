@@ -4,7 +4,7 @@
 Estudando a linguagem PHP
 </p>
 
-## 💟 Tecnologias
+## 💌 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - PHP
 
 
-## 💟 Desafio
+## 💌 Desafio
 
 - Ao pressionar o botao adicionar, chamar a pagina produtos.php.
 - Receber os dados da pagina anterior e criar um array com: Produto, quantidade, valor unitario e total.
